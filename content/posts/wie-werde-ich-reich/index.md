@@ -8,6 +8,10 @@ footnotes = "Autoren: Leandra, Jezith, Niclas"
 +++
 
 
+# **D﻿er Weg zur ersten Million**
+
+![Quelle: https://de.vecteezy.com/vektorkunst/2175383-geld-leiter-um-zu-erreichen-finanziell-unabhangig-ziel-herausforderung-zu-erreichen-investitionsziel-oder-vermogensplanung-strategie-konzept-geschaftsmann-beginn-zu-klettern-leiter-zu-der-top-of-money-dollar-zeichen](2175383-geld-leiter-um-zu-erreichen-finanziell-unabhangig-ziel-herausforderung-zu-erreichen-investitionsziel-oder-vermogensplanung-strategie-konzept-geschaftsmann-beginn-zu-klettern-leiter-zu-der-top-of-money-dollar.jpg)
+
 **I﻿hr habt euch sicher auch schon einmal überlegt, wie es wäre reich zu sein oder sogar Millionär/in.**
 
 A﻿ber wie wir man überhaupt reich und auf welche Sachen und Faktoren muss man achten? Das wird euch in diesem Blogeintrag erklärt.
