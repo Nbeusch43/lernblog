@@ -3,6 +3,7 @@ title = "Was gibt es für Allergien"
 date = "2022-12-16"
 draft = false
 pinned = false
+image = "getimagewithnamedsize.webp"
 description = "Da Leandra und ich Kuchen ohne allergische Stoffen verkaufen, habe ich mich dazu entschieden einen Blogeintrag zum Thema Allergien zu schreiben."
 +++
 W﻿as gibt es für Allergien?
@@ -10,6 +11,12 @@ W﻿as gibt es für Allergien?
 Eine Allergie ist eine Überempfindlichkeit des Immunsystems auf bestimmte Substanzen, die normalerweise harmlos sind. Allergien können durch verschiedene Faktoren ausgelöst werden, zum Beispiel durch Nahrungsmittel, Pollen, Tierhaare oder Medikamente.
 
 Eine der häufigsten Allergien ist die Nahrungsmittelallergie, die durch bestimmte Lebensmittel ausgelöst wird. Hierzu zählen beispielsweise Nüsse, Erdnüsse, Milch, Eier oder Fisch. Eine Nahrungsmittelallergie kann zu verschiedenen Symptomen führen, wie Hautausschlägen, Juckreiz, Schwellungen oder Atembeschwerden.
+
+
+
+![Erdnüsse - Buuregarte Boog](https://www.buuregarte.ch/wp-content/uploads/2020/03/Erdn%C3%BCsse-974-scaled-e1604756695686-700x700.jpg)
+
+**Erdnüsse sind nicht nur die ünnötigen mitbringer in einem "Chlouseseckli"**
 
 Eine weitere häufige Allergie ist die Pollenallergie, die auch als Heuschnupfen bezeichnet wird. Sie wird durch die Pollen von Gräsern, Bäumen oder Blumen ausgelöst und kann zu Symptomen wie Niesen, Schnupfen, tränenden Augen oder Atembeschwerden führen.
 
