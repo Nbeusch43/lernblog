@@ -3,6 +3,7 @@ title = "Was ist eine Strassenumfrage und was ist dabei wichtig?"
 date = "2022-12-16"
 draft = false
 pinned = false
+image = "1643964511701-was-ist-fuer-sie-ekstase-strassenumfrage-102__v-16x9-2dm_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.webp"
 description = "Im Text wird vom Autor Niclas Beusch erklärt, was eine Strassenumfrage ist.\nUnd anschliessend werden die wichtigsten Punkte beim durchführen/ planen erklärt."
 +++
 Eine Strassenumfrage ist eine Methode der Marktforschung, bei der man direkt vor Ort bei den Menschen nachfragt, um Informationen über ihre Meinungen von einem Produkt zu erfahren. Dabei werden in der Regel zufällig ausgewählte Personen angesprochen und befragt.
